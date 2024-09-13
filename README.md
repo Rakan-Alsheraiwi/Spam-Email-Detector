@@ -5,7 +5,7 @@ This project demonstrates a spam email detection application using Gradio and a 
 
 **Main Files and Functions:**
 * **`main.py`:** Contains the main logic for loading the Hugging Face pipeline, defining the Gradio interface, and processing user input.
-* **`predict.py`:** (Optional) If the prediction logic is complex, it can be separated into a separate file for better organization.
+* **`predict.py`:** If the prediction logic is complex, it can be separated into a separate file for better organization.
 
 **Hugging Face Text-to-Text Pipeline:**
 A pre-trained text-to-text model from Hugging Face is used to classify emails as spam or not spam. The pipeline takes the email text as input and returns a classification label and confidence score.

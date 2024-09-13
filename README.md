@@ -27,3 +27,7 @@ The Gradio interface will display the predicted label ("spam" or "not spam") and
 
 ## Running Hugging Face Project Page
  running on Hugging Face Spaces here: [Hugging Face Spam Email Detector](https://huggingface.co/spaces/RakanAlsheraiwi/Spam_Email_Detector).
+
+## Video walking through the Python Notebook.
+[Click here to Watch the video ](https://youtu.be/KYMw_W)
+

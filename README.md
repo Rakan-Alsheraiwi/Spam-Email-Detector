@@ -24,3 +24,6 @@ A pre-trained text-to-text model from Hugging Face is used to classify emails as
 
 **Expected Output:**
 The Gradio interface will display the predicted label ("spam" or "not spam") and the corresponding confidence score.
+
+## Running Hugging Face Project Page
+You can access the project running on Hugging Face Spaces here: [Hugging Face CV Job Matcher](https://huggingface.co/spaces/Lubna25/cv-job-matcher).
